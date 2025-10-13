@@ -1,1 +1,4 @@
 *.ipynb
+.venv/
+.devcontainer/
+__pycache__
